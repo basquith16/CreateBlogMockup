@@ -53,6 +53,14 @@ p3 {
   padding: 10px;
 }
 
+a,a:link,a:visited
+{
+ color:white;
+ text-decoration:none;
+}
+#follow {
+  color: rgba(90, 145, 226, 0.81);
+}
   #sidebar side:hover {
     position: fixed;
     width: 35%;
@@ -64,7 +72,8 @@ p3 {
   }
   ul {
     font-size: 28px;
-    color: purple;
+    color: white;
+    text-shadow: 2px 2px black;
   }
 
   footer {

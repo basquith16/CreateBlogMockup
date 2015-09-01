@@ -4,7 +4,7 @@ body {
   font-size: xx-large;
   background-image:url(me.jpg);
   background-repeat:no-repeat;
-  background-size:100% 19%;
+  background-size:100% 22%;
   background-color: rgba(161, 185, 221, 0.81)
 }
 p1, p2, p3 {  transform-origin: 50% 100%;

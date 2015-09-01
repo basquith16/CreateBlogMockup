@@ -39,6 +39,7 @@ to {
    float: right;
    width: 400;
    padding-right: 300px;
+   padding-bottom: 300px:
 }
 img {
   padding: 10px;
@@ -62,7 +63,7 @@ p3 {
     padding-bottom: 8px;
   }
   ul {
-    font-size: large;
+    font-size: 28px;
     color: purple;
   }
 
